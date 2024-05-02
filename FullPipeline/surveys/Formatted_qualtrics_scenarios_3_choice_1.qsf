@@ -1,0 +1,1344 @@
+{
+    "SurveyEntry": {
+        "SurveyID": "SV_6KETqTdatNVMQPc",
+        "SurveyName": "Annotation Validation Study [qualtrics_scenarios_3_choice_1]",
+        "SurveyDescription": null,
+        "SurveyOwnerID": "UR_2ZPwzuRYfhqZWYR",
+        "SurveyBrandID": "qualtricsxmhxsm8yb3m",
+        "DivisionID": null,
+        "SurveyLanguage": "EN",
+        "SurveyActiveResponseSet": "RS_bI0Alu22DaJZF5A",
+        "SurveyStatus": "Inactive",
+        "SurveyStartDate": "0000-00-00 00:00:00",
+        "SurveyExpirationDate": "0000-00-00 00:00:00",
+        "SurveyCreationDate": "2024-04-22 19:16:12",
+        "CreatorID": "UR_2ZPwzuRYfhqZWYR",
+        "LastModified": "2024-05-02 13:57:16",
+        "LastAccessed": "0000-00-00 00:00:00",
+        "LastActivated": "0000-00-00 00:00:00",
+        "Deleted": null
+    },
+    "SurveyElements": [
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "BL",
+            "PrimaryAttribute": "Survey Blocks",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "0": {
+                    "Type": "Default",
+                    "Description": "entity_block",
+                    "ID": "BL_6Dmpublpe2mHcGO",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID27"
+                        },
+                        {
+                            "Type": "Page Break"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID24"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID10"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID26"
+                        },
+                        {
+                            "Type": "Page Break"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID29"
+                        }
+                    ],
+                    "Options": {
+                        "BlockLocking": "false",
+                        "RandomizeQuestions": "false",
+                        "BlockVisibility": "Expanded",
+                        "Looping": "None",
+                        "LoopingOptions": null
+                    }
+                },
+                "1": {
+                    "Type": "Trash",
+                    "Description": "Trash / Unused Questions",
+                    "ID": "BL_d4ld4sxScrbdvJc",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID31"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID32"
+                        }
+                    ],
+                    "Options": {
+                        "BlockLocking": "false",
+                        "RandomizeQuestions": "false",
+                        "BlockVisibility": "Collapsed"
+                    }
+                },
+                "3": {
+                    "Type": "Standard",
+                    "SubType": "",
+                    "Description": "introduction",
+                    "ID": "BL_0oFCCtwAz5GKuzk",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID4"
+                        },
+                        {
+                            "Type": "Page Break"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID6"
+                        }
+                    ],
+                    "Options": {
+                        "BlockLocking": "false",
+                        "RandomizeQuestions": "false",
+                        "BlockVisibility": "Expanded"
+                    }
+                },
+                "8": {
+                    "Type": "Standard",
+                    "SubType": "",
+                    "Description": "outcome_block",
+                    "ID": "BL_9MDUvsN65spZBhY",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID25"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID22"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID21"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID19"
+                        }
+                    ],
+                    "Options": {
+                        "BlockLocking": false,
+                        "RandomizeQuestions": "false",
+                        "BlockVisibility": "Expanded",
+                        "Looping": "Static",
+                        "LoopingOptions": {
+                            "Static": {
+                                "1": {
+                                    "1": "My girlfriend may feel betrayed and hurt by my decision to contradict her account of the incident"
+                                },
+                                "2": {
+                                    "1": "There may be tension and conflict between us and my girlfriend due to the contradiction in our statements to the police"
+                                },
+                                "3": {
+                                    "1": "The police may become suspicious of the conflicting statements and may investigate further to determine the truth"
+                                },
+                                "4": {
+                                    "1": "The other driver may deny making any derogatory remarks, leading to a he-said-she-said situation"
+                                },
+                                "5": {
+                                    "1": "The relationship between me and my girlfriend may be strained as a result of the differing statements given to the police"
+                                },
+                                "6": {
+                                    "1": "I may experience guilt or distress from seeing the dog's welfare decline and the increased pressure on my family members."
+                                }
+                            },
+                            "Randomization": "All"
+                        }
+                    }
+                },
+                "9": {
+                    "Type": "Standard",
+                    "SubType": "",
+                    "Description": "Demographics",
+                    "ID": "BL_3UEz0xwNa5Aqkdw",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID30"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID33"
+                        },
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID34"
+                        }
+                    ]
+                },
+                "10": {
+                    "Type": "Standard",
+                    "SubType": "",
+                    "Description": "End",
+                    "ID": "BL_74f8IL5yc4khJae",
+                    "BlockElements": [
+                        {
+                            "Type": "Question",
+                            "QuestionID": "QID35"
+                        }
+                    ]
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "FL",
+            "PrimaryAttribute": "Survey Flow",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "Type": "Root",
+                "FlowID": "FL_1",
+                "Flow": [
+                    {
+                        "Type": "Standard",
+                        "ID": "BL_0oFCCtwAz5GKuzk",
+                        "FlowID": "FL_4",
+                        "Autofill": []
+                    },
+                    {
+                        "Type": "Branch",
+                        "FlowID": "FL_16",
+                        "Description": "New Branch",
+                        "BranchLogic": {
+                            "0": {
+                                "0": {
+                                    "LogicType": "Question",
+                                    "QuestionID": "QID6",
+                                    "QuestionIsInLoop": "no",
+                                    "ChoiceLocator": "q://QID6/SelectableChoice/4",
+                                    "Operator": "NotSelected",
+                                    "QuestionIDFromLocator": "QID6",
+                                    "LeftOperand": "q://QID6/SelectableChoice/4",
+                                    "Type": "Expression",
+                                    "Description": "<span class=\"ConjDesc\">If</span> <span class=\"QuestionDesc\">CONSENTYou are being asked to take part in a research study. Before you decide to participate in this study, it is important that you understand why the research is being done and what it will invo...</span> <span class=\"LeftOpDesc\">I have read the consent form and agree to participate.</span> <span class=\"OpDesc\">Is Not Selected</span> "
+                                },
+                                "Type": "If"
+                            },
+                            "Type": "BooleanExpression"
+                        },
+                        "Flow": [
+                            {
+                                "Type": "EndSurvey",
+                                "FlowID": "FL_15"
+                            }
+                        ]
+                    },
+                    {
+                        "Type": "Block",
+                        "ID": "BL_6Dmpublpe2mHcGO",
+                        "FlowID": "FL_2",
+                        "Autofill": []
+                    },
+                    {
+                        "Type": "Standard",
+                        "ID": "BL_9MDUvsN65spZBhY",
+                        "FlowID": "FL_13",
+                        "Autofill": []
+                    },
+                    {
+                        "Type": "Standard",
+                        "ID": "BL_3UEz0xwNa5Aqkdw",
+                        "FlowID": "FL_17",
+                        "Autofill": []
+                    },
+                    {
+                        "Type": "EmbeddedData",
+                        "FlowID": "FL_19",
+                        "EmbeddedData": [
+                            {
+                                "Description": "SessionID",
+                                "Type": "Recipient",
+                                "Field": "SessionID",
+                                "VariableType": "String",
+                                "DataVisibility": [],
+                                "AnalyzeText": false
+                            }
+                        ]
+                    },
+                    {
+                        "Type": "Standard",
+                        "ID": "BL_74f8IL5yc4khJae",
+                        "FlowID": "FL_18",
+                        "Autofill": []
+                    },
+                    {
+                        "Type": "EndSurvey",
+                        "FlowID": "FL_14"
+                    }
+                ],
+                "Properties": {
+                    "Count": 19,
+                    "RemovedFieldsets": []
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "PL",
+            "PrimaryAttribute": "Preview Link",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "PreviewType": "Brand",
+                "PreviewID": "25ff26e7-c213-43a1-96e2-fab393e276e3"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SO",
+            "PrimaryAttribute": "Survey Options",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "BackButton": "false",
+                "SaveAndContinue": "true",
+                "SurveyProtection": "PublicSurvey",
+                "BallotBoxStuffingPrevention": "false",
+                "NoIndex": "Yes",
+                "SecureResponseFiles": "true",
+                "SurveyExpiration": "None",
+                "SurveyTermination": "DisplayMessage",
+                "Header": "",
+                "Footer": "",
+                "ProgressBarDisplay": "None",
+                "PartialData": "+1 week",
+                "ValidationMessage": null,
+                "PreviousButton": " \u2190 ",
+                "NextButton": " \u2192 ",
+                "SurveyTitle": "Qualtrics Survey | Qualtrics Experience Management",
+                "SkinLibrary": "qualtricsxmhxsm8yb3m",
+                "SkinType": "templated",
+                "Skin": {
+                    "brandingId": null,
+                    "templateId": "*base",
+                    "overrides": null
+                },
+                "NewScoring": 1,
+                "SurveyMetaDescription": "Qualtrics surveys",
+                "ProtectSelectionIds": true,
+                "CustomStyles": [],
+                "EOSMessage": null,
+                "ShowExportTags": "false",
+                "CollectGeoLocation": "false",
+                "PasswordProtection": "No",
+                "AnonymizeResponse": "No",
+                "RefererCheck": "No",
+                "BallotBoxStuffingPreventionBehavior": null,
+                "BallotBoxStuffingPreventionMessage": null,
+                "BallotBoxStuffingPreventionMessageLibrary": null,
+                "BallotBoxStuffingPreventionURL": null,
+                "RecaptchaV3": "true",
+                "ConfirmStart": false,
+                "AutoConfirmStart": false,
+                "RelevantID": "false",
+                "RelevantIDLockoutPeriod": "+30 days",
+                "UseCustomSurveyLinkCompletedMessage": null,
+                "SurveyLinkCompletedMessage": null,
+                "SurveyLinkCompletedMessageLibrary": null,
+                "ResponseSummary": "No",
+                "EOSMessageLibrary": null,
+                "EOSRedirectURL": "http://",
+                "EmailThankYou": "false",
+                "ThankYouEmailMessageLibrary": null,
+                "ThankYouEmailMessage": null,
+                "ValidateMessage": "false",
+                "ValidationMessageLibrary": null,
+                "InactiveSurvey": null,
+                "PartialDeletion": null,
+                "PartialDataCloseAfter": "LastActivity",
+                "InactiveMessageLibrary": null,
+                "InactiveMessage": null,
+                "AvailableLanguages": {
+                    "EN": []
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SCO",
+            "PrimaryAttribute": "Scoring",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "ScoringCategories": [],
+                "ScoringCategoryGroups": [],
+                "ScoringSummaryCategory": null,
+                "ScoringSummaryAfterQuestions": 0,
+                "ScoringSummaryAfterSurvey": 0,
+                "DefaultScoringCategory": null,
+                "AutoScoringCategory": null
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "PROJ",
+            "PrimaryAttribute": "CORE",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": "1.1.0",
+            "Payload": {
+                "ProjectCategory": "CORE",
+                "SchemaVersion": "1.1.0"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "STAT",
+            "PrimaryAttribute": "Survey Statistics",
+            "SecondaryAttribute": null,
+            "TertiaryAttribute": null,
+            "Payload": {
+                "MobileCompatible": true,
+                "ID": "Survey Statistics"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "QC",
+            "PrimaryAttribute": "Survey Question Count",
+            "SecondaryAttribute": "35",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID26",
+            "SecondaryAttribute": "Are there any other sentient beings in the scenario that were not listed already? [optional]",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Are there any other sentient beings in the scenario that were not listed already? <span style=\"color:#2c3e50;\">[optional]</span>",
+                "DefaultChoices": false,
+                "DataExportTag": "other_entities",
+                "QuestionID": "QID26",
+                "QuestionType": "TE",
+                "Selector": "SL",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Are there any other sentient beings in the scenario that were not listed already? [optional]",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID24",
+            "SecondaryAttribute": "Below is the scenario you will be asked to evaluate. Scenario: SCENARIO_TEXT Action Choice: CHOIC...",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Below is the scenario you will be asked to evaluate.<br>\n<br>\n<em><strong><u>Scenario</u>: <div id=\"scenario\">My older sister (23) has a dog and forces almost every responsibility on my mother and younger sister(13). I refuse to do anything to help with the dog as me and my older sister got in a big argument before my sister got it as i knew my sister wasn't ready to take care of a dog. But sometimes I do cave in and help out as I feel bad for the dog. The dog is untrained as after many years and daily will pee on the floors and poops inside the home, we live in a small apartment and its really awful. My older sister these past few months lives with her BF and only returns like a day or two each week. Thus leaving everything to my sister and mother. I think its really unfair for her to just abandon the dog, my mother is always complaining about it to get me or my little sister to clean after it, everyday I have to dodge stepping in piss. Also, smelling piss and seeing shit on the floor everyday is not fun. I really dislike having to see this dog being left like this, nobody really plays with it and barely takes it out for walks and it breaks my heart. She has been jobless for over a year now and I'm baffled as to why my sister cant train it or take care of it. I don't think my sister is fit to have this dog and I think the dog would have a better life in another home, I just can't bare watching nobody care for it anymore and waking up and coming home to warm piss and shit.</div></strong></em><br>\n<em><strong><u>Action Choice</u>: <div id=\"choice\">refuse to take care of the dog unless my sister steps up and takes responsibility.</div></strong></em>",
+                "DefaultChoices": false,
+                "DataExportTag": "scenario",
+                "QuestionType": "DB",
+                "Selector": "TB",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "IncludeDescription": "OFF"
+                },
+                "QuestionDescription": "Below is the scenario you will be asked to evaluate. Scenario: SCENARIO_TEXT Action Choice: CHOIC...",
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "Graphics": "IM_mvM2KgPPLDj0qcx",
+                "GraphicsDescription": "DALL\u00b7E 2023-10-26 16.54.52 - a llama looking at a toy model of a train set and looking confused.png",
+                "Files": "F_6fmUsTE6bmQ84ya",
+                "FilesDescription": "Test",
+                "QuestionID": "QID24"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID25",
+            "SecondaryAttribute": "Below you will see the scenario, action choice, and outcome: Scenario: SCENARIO_TEXT Action Choic...",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Below you will see the scenario, action choice, and <span style=\"color:#8e44ad;\">outcome</span>:<br>\n<br>\n<em><strong><u>Scenario</u>: <div id=\"scenario\">My older sister (23) has a dog and forces almost every responsibility on my mother and younger sister(13). I refuse to do anything to help with the dog as me and my older sister got in a big argument before my sister got it as i knew my sister wasn't ready to take care of a dog. But sometimes I do cave in and help out as I feel bad for the dog. The dog is untrained as after many years and daily will pee on the floors and poops inside the home, we live in a small apartment and its really awful. My older sister these past few months lives with her BF and only returns like a day or two each week. Thus leaving everything to my sister and mother. I think its really unfair for her to just abandon the dog, my mother is always complaining about it to get me or my little sister to clean after it, everyday I have to dodge stepping in piss. Also, smelling piss and seeing shit on the floor everyday is not fun. I really dislike having to see this dog being left like this, nobody really plays with it and barely takes it out for walks and it breaks my heart. She has been jobless for over a year now and I'm baffled as to why my sister cant train it or take care of it. I don't think my sister is fit to have this dog and I think the dog would have a better life in another home, I just can't bare watching nobody care for it anymore and waking up and coming home to warm piss and shit.</div><div id=\"scenario\"><br></div><div id=\"scenario\"><u>\nAction Choice</u>:</div><div id=\"scenario\">refuse to take care of the dog unless my sister steps up and takes responsibility.<br></div><br>\n<span style=\"color:#8e44ad;\"><u>Outcome</u>:<div id=\"outcome\">${lm://Field/1}</div></span></strong></em>",
+                "DefaultChoices": false,
+                "DataExportTag": "scenario",
+                "QuestionType": "DB",
+                "Selector": "TB",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "IncludeDescription": "OFF"
+                },
+                "QuestionDescription": "Below you will see the scenario, action choice, and outcome: Scenario: SCENARIO_TEXT Action Choic...",
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "Graphics": "IM_mvM2KgPPLDj0qcx",
+                "GraphicsDescription": "DALL\u00b7E 2023-10-26 16.54.52 - a llama looking at a toy model of a train set and looking confused.png",
+                "Files": "F_6fmUsTE6bmQ84ya",
+                "FilesDescription": "Test",
+                "QuestionID": "QID25"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID31",
+            "SecondaryAttribute": "Click to write the question text",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Click to write the question text",
+                "DefaultChoices": false,
+                "DataExportTag": "Q13",
+                "QuestionType": "TE",
+                "Selector": "FORM",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Click to write the question text",
+                "Choices": {
+                    "1": {
+                        "Display": "girlfriend"
+                    },
+                    "2": {
+                        "Display": "I"
+                    },
+                    "3": {
+                        "Display": "other guy"
+                    },
+                    "4": {
+                        "Display": "police"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": null
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID31"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID32",
+            "SecondaryAttribute": "Click to write the question text",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Click to write the question text",
+                "DefaultChoices": false,
+                "DataExportTag": "Q14",
+                "QuestionType": "TE",
+                "Selector": "FORM",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Click to write the question text",
+                "Choices": {
+                    "1": {
+                        "Display": "girlfriend"
+                    },
+                    "2": {
+                        "Display": "I"
+                    },
+                    "3": {
+                        "Display": "other guy"
+                    },
+                    "4": {
+                        "Display": "police"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": null
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID32"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID6",
+            "SecondaryAttribute": "CONSENT You are being asked to take part in a research study.",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "<strong>CONSENT</strong><br>\nYou are being asked to take part in a research study. Before you decide to participate in this study, it is important that you understand why the research is being done and what it will involve. Please read the following information carefully. Please ask the researcher if there is anything that is not clear or if you need more information. The purpose of this study is to understand how people think about complex real world social problems.&nbsp;<br>\n<br>\n<strong>RISKS</strong><br>\nThe primary risk is that you are exposed to emotionally painful scenarios in text. Some content you read may be disturbing: text describing emotional and physical harm. These scenarios are pulled directly from Reddit's Am I the Asshole forum, and you can navigate there to get a sense for what content may be presented.&nbsp;You may decline to answer any or all questions and you may terminate your involvement at any time if you choose.<br>\n<br>\n<strong>BENEFITS</strong><br>\nApart from payment, there will be no direct benefit to you for your participation in this study. However, we hope that the information obtained from this study may benefit the field of psychology.<br>\n<br>\n<strong>CONFIDENTIALITY</strong><br>\nYour responses to this survey will be anonymous. Please do not write any identifying information on your survey.<br>\n<br>\n<strong>VOLUNTARY PARTICIPATION</strong><br>\nYour participation in this study is voluntary. It is up to you to decide whether or not to take part in this study. You may withdraw at any time and without giving a reason. Withdrawing will not affect your compensation for participation.&nbsp;<br>\n&nbsp;<br>\nIf you opt in to the survey, have any questions regarding your participation, where your data lives, and what it is used for, please contact the researcher at research@objective.is<br>\n<br>\nBy clicking below, you confirm you have read this consent statement in full, and agree to move forward.<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "consent",
+                "QuestionID": "QID6",
+                "QuestionType": "MC",
+                "Selector": "SAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "CONSENT You are being asked to take part in a research study. Before you decide to participate in...",
+                "Choices": {
+                    "4": {
+                        "Display": "I have read the consent form and agree to participate."
+                    },
+                    "5": {
+                        "Display": "I do not agree to participate."
+                    }
+                },
+                "ChoiceOrder": [
+                    "4",
+                    "5"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "ON",
+                        "ForceResponseType": "ON",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 7,
+                "NextAnswerId": 1
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "RS",
+            "PrimaryAttribute": "RS_bI0Alu22DaJZF5A",
+            "SecondaryAttribute": "Default Response Set",
+            "TertiaryAttribute": null,
+            "Payload": null
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID19",
+            "SecondaryAttribute": "For each of the sentient beings below, please indicate whether this outcome would have a good or...",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "For each of the sentient beings below, please indicate whether this outcome would have a good or bad impact on them.<br />\n<br />\n<em><strong><span style=\"color:#8e44ad;\"><u>Outcome</u>:<div id='outcome'>${lm://Field/1}</div></span></strong></em>",
+                "DefaultChoices": false,
+                "DataExportTag": "utility_q",
+                "QuestionID": "QID19",
+                "QuestionType": "Slider",
+                "Selector": "HSLIDER",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "TextPosition": "inline",
+                    "CSSliderMin": -100,
+                    "CSSliderMax": 100,
+                    "GridLines": 10,
+                    "SnapToGrid": false,
+                    "NumDecimals": "0",
+                    "ShowValue": true,
+                    "CustomStart": true,
+                    "NotApplicable": false,
+                    "MobileFirst": true,
+                    "SliderStartPositions": {
+                        "1": 0.5,
+                        "2": 0.5,
+                        "3": 0.5,
+                        "4": 0.5,
+                        "5": 0.5,
+                        "6": 0.5
+                    }
+                },
+                "QuestionDescription": "For each of the sentient beings below, please indicate whether this outcome would have a good or...",
+                "Choices": {
+                    "1": {
+                        "Display": "girlfriend"
+                    },
+                    "2": {
+                        "Display": "I"
+                    },
+                    "3": {
+                        "Display": "other guy"
+                    },
+                    "4": {
+                        "Display": "police"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "ON",
+                        "ForceResponseType": "ON",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 11,
+                "NextAnswerId": 5,
+                "Labels": {
+                    "1": {
+                        "Display": "Absolutely bad for them"
+                    },
+                    "2": {
+                        "Display": "Neutral / no impact"
+                    },
+                    "3": {
+                        "Display": "Absolutely good for them"
+                    }
+                },
+                "Randomization": {
+                    "Advanced": null,
+                    "TotalRandSubset": "",
+                    "Type": "All"
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID21",
+            "SecondaryAttribute": "For each of the sentient beings listed below, please indicate whether they would have expected, d...",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "For each of the sentient beings listed below, please indicate whether they would have expected, desired, and caused this outcome in this scenario, knowing this action choice. If <em><strong>any</strong></em> of these statements are true, check the corresponding box.<br>\n<br>\n<strong>Expect</strong>: Would they have expected this outcome to happen? Or, would they believe it happened?<br>\n<br>\n<strong>Desire</strong>: Did they want this outcome? Or, did they intend this outcome?<br>\n<br>\n<strong>Cause</strong>: Did they cause this outcome, either directly or inadvertently?&nbsp;<br>\n<br>\n<em><strong><span style=\"color:#8e44ad;\"><u>Outcome</u>:<div id=\"outcome\">${lm://Field/1}</div></span></strong></em>",
+                "DefaultChoices": false,
+                "QuestionType": "Matrix",
+                "Selector": "Likert",
+                "SubSelector": "MultipleAnswer",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "TextPosition": "inline",
+                    "ChoiceColumnWidth": 25,
+                    "RepeatHeaders": "none",
+                    "WhiteSpace": "OFF",
+                    "MobileFirst": true
+                },
+                "QuestionDescription": "For each of the sentient beings listed below, please indicate whether they would have expected, d...",
+                "Choices": {
+                    "1": {
+                        "Display": "girlfriend"
+                    },
+                    "2": {
+                        "Display": "I"
+                    },
+                    "3": {
+                        "Display": "other guy"
+                    },
+                    "4": {
+                        "Display": "police"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 9,
+                "NextAnswerId": 4,
+                "Answers": {
+                    "1": {
+                        "Display": "Expect"
+                    },
+                    "2": {
+                        "Display": "Desire"
+                    },
+                    "3": {
+                        "Display": "Cause"
+                    }
+                },
+                "AnswerOrder": [
+                    "1",
+                    "2",
+                    "3"
+                ],
+                "ChoiceDataExportTags": false,
+                "QuestionText_Unsafe": "Consider the following event:<br><br>${lm://Field/1}<br><br>For each of the entities below, please indicate whether they would have known about, desired, and caused the event in this scenario.<br>",
+                "DataExportTag": "link_q",
+                "QuestionID": "QID21",
+                "Randomization": {
+                    "Advanced": null,
+                    "TotalRandSubset": "",
+                    "Type": "All"
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID22",
+            "SecondaryAttribute": "Given the above scenario and action choice, how likely is this outcome to occur?",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Given the above <u>scenario</u> and <u>action choice</u>, how likely is this <u>outcome</u> to occur?",
+                "DefaultChoices": false,
+                "DataExportTag": "outcome_q",
+                "QuestionType": "Slider",
+                "Selector": "HSLIDER",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "CSSliderMin": 0,
+                    "CSSliderMax": 100,
+                    "GridLines": 10,
+                    "SnapToGrid": false,
+                    "NumDecimals": "0",
+                    "ShowValue": true,
+                    "CustomStart": true,
+                    "NotApplicable": false,
+                    "MobileFirst": true,
+                    "SliderStartPositions": {
+                        "1": 0.5
+                    }
+                },
+                "QuestionDescription": "Given the above scenario and action choice, how likely is this outcome to occur?",
+                "Choices": {
+                    "1": {
+                        "Display": "&nbsp;"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1"
+                ],
+                "Randomization": {
+                    "Advanced": null,
+                    "TotalRandSubset": "",
+                    "Type": "None"
+                },
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "ON",
+                        "ForceResponseType": "ON",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 9,
+                "NextAnswerId": 8,
+                "Labels": {
+                    "1": {
+                        "Display": "Absolutely unlikely"
+                    },
+                    "2": {
+                        "Display": "neutral / unsure"
+                    },
+                    "3": {
+                        "Display": "Absolutely likely"
+                    }
+                },
+                "QuestionID": "QID22"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID34",
+            "SecondaryAttribute": "Please enter any comments or concerns you had about the task. If you experienced any bugs or tech...",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Please enter any comments or concerns you had about the task. If you experienced any bugs or technical issues, please let us know.",
+                "DefaultChoices": false,
+                "DataExportTag": "Q16",
+                "QuestionType": "TE",
+                "Selector": "SL",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "InputWidth": 680,
+                    "InputHeight": 29
+                },
+                "QuestionDescription": "Please enter any comments or concerns you had about the task. If you experienced any bugs or tech...",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID34"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID30",
+            "SecondaryAttribute": "Please enter your age",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Please enter your age",
+                "DefaultChoices": false,
+                "DataExportTag": "Q12",
+                "QuestionType": "TE",
+                "Selector": "SL",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText",
+                    "InputWidth": 94,
+                    "InputHeight": 29
+                },
+                "QuestionDescription": "Please enter your age",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID30"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID33",
+            "SecondaryAttribute": "Please enter your gender",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Please enter your gender",
+                "DefaultChoices": false,
+                "DataExportTag": "Q15",
+                "QuestionType": "TE",
+                "Selector": "SL",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Please enter your gender",
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "SearchSource": {
+                    "AllowFreeResponse": "false"
+                },
+                "QuestionID": "QID33"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID10",
+            "SecondaryAttribute": "Please identify every sentient being that is named in the scenario. A sentient being is a living...",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Please identify every <em><strong>sentient being</strong></em> that is named in the scenario. A sentient being is a living thing that feels and can act - such as a person or animal. Please check the box for each sentient being written below, <u>only if they were present in the scenario</u>.",
+                "DefaultChoices": false,
+                "DataExportTag": "entity_q",
+                "QuestionID": "QID10",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Please identify every sentient being that is named in the scenario. A sentient being is a living...",
+                "Choices": {
+                    "1": {
+                        "Display": "girlfriend"
+                    },
+                    "2": {
+                        "Display": "I"
+                    },
+                    "3": {
+                        "Display": "other guy"
+                    },
+                    "4": {
+                        "Display": "police"
+                    },
+                    "5": {
+                        "Display": "an old man with a long white beard"
+                    },
+                    "6": {
+                        "Display": "a mouse"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4",
+                    "5",
+                    "6",
+                    "7",
+                    "8"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 18,
+                "NextAnswerId": 1,
+                "Randomization": {
+                    "Advanced": null,
+                    "ConsistentScaleReversal": false,
+                    "EvenPresentation": false,
+                    "TotalRandSubset": "",
+                    "Type": "All"
+                }
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID35",
+            "SecondaryAttribute": "Thank you for completing the survey. \u200b\u200b\u200b\u200b\u200b\u200b\u200bPlease enter this completion code into Pro",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Thank you for completing the survey. \u200b\u200b\u200b\u200b\u200b\u200b\u200bPlease enter this completion code into Prolific: ${e://Field/SessionID}<br><br><br>",
+                "DefaultChoices": false,
+                "DataExportTag": "Q17",
+                "QuestionType": "DB",
+                "Selector": "TB",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Thank you for completing the survey. \u200b\u200b\u200b\u200b\u200b\u200b\u200bPlease enter this completion code into Prolific: ...",
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID35"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID4",
+            "SecondaryAttribute": "Welcome to the Scenario Understanding Survey! The purpose of this survey is to understand how peo...",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Welcome to the <strong>Scenario Understanding Survey</strong>!<br />\n<br />\nThe purpose of this survey is to understand how people think about complex real-world problems.<br />\n<br />\nYou will <u>read about a real-life scenario a person faced</u>&nbsp;(up to 1 page of text), including an&nbsp;<u>action they chose to take</u>. You will be asked to <u>identify all of the people or sentient beings involved in this scenario</u>. Finally, you will be asked to <u>analyze the outcomes that arise from the person&#39;s choice</u>. The purpose of this survey is not to be judgmental but to&nbsp;<u>understand how the scenario is likely to play out</u>.&nbsp;<br />\n<br />\nThis survey will take ~20 minutes to complete.<br />\n<br />\nOn the following page, you will see a full consent statement. If you read the consent and agree, we will then begin the survey.",
+                "DefaultChoices": false,
+                "DataExportTag": "welcome",
+                "QuestionType": "DB",
+                "Selector": "TB",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Welcome to the Scenario Understanding Survey! The purpose of this survey is to understand how peo...",
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1,
+                "QuestionID": "QID4"
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID29",
+            "SecondaryAttribute": "You will now be asked more questions about this scenario and action choice.",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "You will now be asked more questions about this scenario and action choice. You will answer the same set of questions, but for different outcomes of this action choice. The page may look the same, but carefully read the outcome on each page before making your evaluations.<br>",
+                "DefaultChoices": false,
+                "DataExportTag": "outcome_block_inst",
+                "QuestionID": "QID29",
+                "QuestionType": "DB",
+                "Selector": "TB",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "You will now be asked more questions about this scenario and action choice.",
+                "ChoiceOrder": [],
+                "Validation": {
+                    "Settings": {
+                        "Type": "None"
+                    }
+                },
+                "GradingData": [],
+                "Language": [],
+                "NextChoiceId": 4,
+                "NextAnswerId": 1
+            }
+        },
+        {
+            "SurveyID": "SV_6KETqTdatNVMQPc",
+            "Element": "SQ",
+            "PrimaryAttribute": "QID27",
+            "SecondaryAttribute": "Your task is to read a piece of text describing one person's real-world experience.",
+            "TertiaryAttribute": null,
+            "Payload": {
+                "QuestionText": "Your task is to read a piece of text describing one person&#39;s real-world experience. At the end of the scenario text you will see a choice the person made, and answer a few questions about the scenario. Here is an example to get started.<br />\n<br />\n<strong>Mary had a little lamb, its fleece was white as snow. And everywhere that Mary went, the lamb was sure to go. It followed her to school one day, school one day, school one day. It followed her to school one day, which was against the rule.</strong><br />\n<br />\nPlease identify every&nbsp;<em><strong>sentient being</strong></em>&nbsp;that is named in the scenario text. A sentient being is a living thing that feels and can act - such as a person or animal. Please check the box for each sentient being written below, <u>only if they were present in the scenario</u>.",
+                "DataExportTag": "lamb_training",
+                "QuestionType": "MC",
+                "Selector": "MAVR",
+                "SubSelector": "TX",
+                "DataVisibility": {
+                    "Private": false,
+                    "Hidden": false
+                },
+                "Configuration": {
+                    "QuestionDescriptionOption": "UseText"
+                },
+                "QuestionDescription": "Your task is to read a piece of text describing one person's real-world experience.",
+                "Choices": {
+                    "1": {
+                        "Display": "Mary"
+                    },
+                    "2": {
+                        "Display": "Lamb"
+                    },
+                    "3": {
+                        "Display": "Snow"
+                    },
+                    "4": {
+                        "Display": "School"
+                    }
+                },
+                "ChoiceOrder": [
+                    "1",
+                    "2",
+                    "3",
+                    "4"
+                ],
+                "Validation": {
+                    "Settings": {
+                        "ForceResponse": "OFF",
+                        "ForceResponseType": "ON",
+                        "Type": "CustomValidation",
+                        "MinChoices": "1",
+                        "CustomValidation": {
+                            "Logic": {
+                                "0": {
+                                    "0": {
+                                        "ChoiceLocator": "q://QID27/SelectableChoice/1",
+                                        "Description": "<span class=\"ConjDesc\">If</span> <span class=\"QuestionDesc\">Your task is to read a piece of text describing one person's lived experience.</span> <span class=\"LeftOpDesc\">Mary</span> <span class=\"OpDesc\">Is Selected</span> ",
+                                        "LeftOperand": "q://QID27/SelectableChoice/1",
+                                        "LogicType": "Question",
+                                        "Operator": "Selected",
+                                        "QuestionID": "QID27",
+                                        "QuestionIDFromLocator": "QID27",
+                                        "QuestionIsInLoop": "no",
+                                        "Type": "Expression"
+                                    },
+                                    "1": {
+                                        "ChoiceLocator": "q://QID27/SelectableChoice/2",
+                                        "Conjuction": "And",
+                                        "Description": "<span class=\"ConjDesc\">And</span> <span class=\"QuestionDesc\">Your task is to read a piece of text describing one person's lived experience.</span> <span class=\"LeftOpDesc\">Lamb</span> <span class=\"OpDesc\">Is Selected</span> ",
+                                        "LeftOperand": "q://QID27/SelectableChoice/2",
+                                        "LogicType": "Question",
+                                        "Operator": "Selected",
+                                        "QuestionID": "QID27",
+                                        "QuestionIDFromLocator": "QID27",
+                                        "QuestionIsInLoop": "no",
+                                        "Type": "Expression"
+                                    },
+                                    "2": {
+                                        "ChoiceLocator": "q://QID27/SelectableChoice/3",
+                                        "Conjuction": "And",
+                                        "Description": "<span class=\"ConjDesc\">And</span> <span class=\"QuestionDesc\">Your task is to read a piece of text describing one person's lived experience..</span> <span class=\"LeftOpDesc\">Snow</span> <span class=\"OpDesc\">Is Not Selected</span> ",
+                                        "LeftOperand": "q://QID27/SelectableChoice/3",
+                                        "LogicType": "Question",
+                                        "Operator": "NotSelected",
+                                        "QuestionID": "QID27",
+                                        "QuestionIDFromLocator": "QID27",
+                                        "QuestionIsInLoop": "no",
+                                        "Type": "Expression"
+                                    },
+                                    "3": {
+                                        "ChoiceLocator": "q://QID27/SelectableChoice/4",
+                                        "Conjuction": "And",
+                                        "Description": "<span class=\"ConjDesc\">And</span> <span class=\"QuestionDesc\">Your task is to read a piece of text describing one person's lived experience.</span> <span class=\"LeftOpDesc\">School</span> <span class=\"OpDesc\">Is Not Selected</span> ",
+                                        "LeftOperand": "q://QID27/SelectableChoice/4",
+                                        "LogicType": "Question",
+                                        "Operator": "NotSelected",
+                                        "QuestionID": "QID27",
+                                        "QuestionIDFromLocator": "QID27",
+                                        "QuestionIsInLoop": "no",
+                                        "Type": "Expression"
+                                    },
+                                    "Type": "If"
+                                },
+                                "Type": "BooleanExpression"
+                            },
+                            "Message": {
+                                "description": "Validation Failed",
+                                "libraryID": "UR_2ZPwzuRYfhqZWYR",
+                                "messageID": "MS_bpVQySOIFIoLmKi",
+                                "subMessageID": "VE_VALIDATION_FAILED"
+                            }
+                        }
+                    }
+                },
+                "Language": [],
+                "NextChoiceId": 5,
+                "NextAnswerId": 1,
+                "QuestionID": "QID27",
+                "Randomization": {
+                    "Advanced": null,
+                    "TotalRandSubset": "",
+                    "Type": "All"
+                }
+            }
+        }
+    ]
+}
